@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Nicolas Colman
+=======
+Gerardo
+Inforyack
+marcel
+Nicolas
+
+>>>>>>> cb608c5f6a1998405099f3a285c62fa774ee8977
